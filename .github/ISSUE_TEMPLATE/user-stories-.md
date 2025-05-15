@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a Student, i have worked on this agile development project** [role]  
+ **I have created repository for kanaban boards and made issue Templates for user stories** [function]  
+ **So that it can benifit me on working in collabations with teams and following the agile principles** [benefit]  
    
  ### Details and Assumptions
  * [document what you know]
